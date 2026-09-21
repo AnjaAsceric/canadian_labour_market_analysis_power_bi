@@ -1,0 +1,42 @@
+| City                         | Latitude | Longitude |
+| Abbotsford-Mission           |  49.0504 | -122.3045 |
+| Barrie                       |  44.3894 |  -79.6903 |
+| Belleville - Quinte West     |  44.1628 |  -77.3832 |
+| Brantford                    |  43.1394 |  -80.2644 |
+| Calgary                      |  51.0447 | -114.0719 |
+| Chilliwack                   |  49.1579 | -121.9515 |
+| Drummondville                |  45.8834 |  -72.4844 |
+| Edmonton                     |  53.5461 | -113.4938 |
+| Fredericton                  |  45.9636 |  -66.6431 |
+| Greater Sudbury              |  46.4917 |  -80.9930 |
+| Guelph                       |  43.5448 |  -80.2482 |
+| Halifax                      |  44.6488 |  -63.5752 |
+| Hamilton                     |  43.2557 |  -79.8711 |
+| Kamloops                     |  50.6745 | -120.3273 |
+| Kelowna                      |  49.8880 | -119.4960 |
+| Kingston                     |  44.2312 |  -76.4860 |
+| Kitchener-Cambridge-Waterloo |  43.4516 |  -80.4925 |
+| Lethbridge                   |  49.6956 | -112.8451 |
+| London                       |  42.9849 |  -81.2453 |
+| Moncton                      |  46.0878 |  -64.7782 |
+| Montréal                     |  45.5019 |  -73.5674 |
+| Nanaimo                      |  49.1659 | -123.9401 |
+| Oshawa                       |  43.8971 |  -78.8658 |
+| Ottawa-Gatineau              |  45.4215 |  -75.6972 |
+| Peterborough                 |  44.3091 |  -78.3197 |
+| Québec                       |  46.8139 |  -71.2080 |
+| Red Deer                     |  52.2681 | -113.8112 |
+| Regina                       |  50.4452 | -104.6189 |
+| Saguenay                     |  48.4284 |  -71.0686 |
+| Saint John                   |  45.2733 |  -66.0633 |
+| Saskatoon                    |  52.1332 | -106.6700 |
+| Sherbrooke                   |  45.4042 |  -71.8929 |
+| St. Catharines-Niagara       |  43.1594 |  -79.2469 |
+| St. John's                   |  47.5615 |  -52.7126 |
+| Thunder Bay                  |  48.3809 |  -89.2477 |
+| Toronto                      |  43.6532 |  -79.3832 |
+| Trois-Rivières               |  46.3430 |  -72.5432 |
+| Vancouver                    |  49.2827 | -123.1207 |
+| Victoria                     |  48.4284 | -123.3656 |
+| Windsor                      |  42.3149 |  -83.0364 |
+| Winnipeg                     |  49.8951 |  -97.1384 |
