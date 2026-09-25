@@ -1,4 +1,4 @@
-# Canadian Labour Market Analysis — Power BI
+# Canadian Labour Market Analysis in Power BI
 
 ## Overview
 
