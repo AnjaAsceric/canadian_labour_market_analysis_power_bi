@@ -236,7 +236,6 @@ The focus was not only on presenting individual statistics, but also on allowing
 
 ### CMA Analysis
 ![CMA Analysis](screenshots/CMAs1.png)
-![CMA Analysis](screenshots/CMAs2.png)
 
 ## Disclaimer
 
