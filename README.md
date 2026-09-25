@@ -228,15 +228,15 @@ The focus was not only on presenting individual statistics, but also on allowing
 ![Summary Dashboard](screenshots/Summary.png)
 
 ### Provincial Analysis
-![Provincial Analysis](screenshots/Provinces1.png)
-![Provincial Analysis](screenshots/Provinces3.png)
+![Provincial Analysis](screenshots/Province1.png)
+![Provincial Analysis](screenshots/Province3.png)
 
 ### Wage Analysis
 ![Wage Analysis](screenshots/AgeGender.png)
 
 ### CMA Analysis
-![CMA Analysis](screenshots/CMA1.png)
-![CMA Analysis](screenshots/CMA2.png)
+![CMA Analysis](screenshots/CMAs1.png)
+![CMA Analysis](screenshots/CMAs2.png)
 
 ## Disclaimer
 
